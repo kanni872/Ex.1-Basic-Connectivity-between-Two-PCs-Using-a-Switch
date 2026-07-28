@@ -1,5 +1,7 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 28/07/2026
+# Name : Kanniappan P
+# Reg no : 212223060112
 
 # Objective
 
@@ -39,6 +41,14 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1918" height="1075" alt="Screenshot 2026-07-28 104817" src="https://github.com/user-attachments/assets/d1cb9787-e996-4fb3-8db0-1da791421ea0" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-07-28 105324" src="https://github.com/user-attachments/assets/7ffbfa77-6ea3-4bff-8081-8b6793aae268" />
+
+<img width="1918" height="1077" alt="Screenshot 2026-07-28 105144" src="https://github.com/user-attachments/assets/6b7e637d-23ce-41fd-9de4-1ced48d35e39" />
+
+
+
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
